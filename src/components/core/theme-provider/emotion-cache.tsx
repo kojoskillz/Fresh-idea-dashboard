@@ -63,7 +63,7 @@ export default function NextAppDirEmotionCacheProvider(props: NextAppDirEmotionC
         if (isGlobal) {
          globals.push({ name, style: style ?? "" });
         } else {
-          styles += style;
+          styles += styles;
           dataEmotionAttribute += ` ${name}`;
         }
       }
