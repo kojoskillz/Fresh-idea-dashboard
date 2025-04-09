@@ -16,7 +16,7 @@ export default function Page(): React.JSX.Element {
   return (
     <Grid container spacing={3}>
       <Grid lg={40} sm={6} xs={120} >
-        <Budget diff={12} trend="up" sx={{ height: '100%' }}  />
+        <Budget diff={12} trend="up" sx={{ height: '100%' }} value={undefined}  />
       </Grid>
 
       <Grid lg={6} xs={12}>
