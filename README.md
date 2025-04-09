@@ -4,8 +4,8 @@
 
 # **School Management System Dashboard - Documentation**  
 ### Version: 1.0  
-### Author: [Your Name]  
-### Last Updated: [Date]  
+### Author: [Kwadwo Ebenezer]  
+### Last Updated: [4/9/2025]  
 
 ## **1. Introduction**  
 ### **Overview**  
@@ -28,8 +28,9 @@ The **School Management System Dashboard** is a web-based platform designed to s
 - Next.js framework (latest version)  
 - Database (PostgreSQL/MySQL/MongoDB)  
 - Tailwind CSS (for styling)  
-- Material UI (for UI components)  
-
+- Material UI (for UI components)
+- Reactjs
+-Typescript
 ### **Setup Instructions**  
 1. Clone the repository:  
    ```bash
@@ -94,7 +95,6 @@ The **School Management System Dashboard** is a web-based platform designed to s
 
 ## **7. Contact & Support**  
 For support, contact:  
-- Email: support@yourdomain.com  
-- GitHub Issues: [Your GitHub Repo]  
+- GitHub Issues:(https://github.com/kojoskillz/Fresh-idea-dashboard)
 
 ---
