@@ -19,7 +19,7 @@ import Image from 'next/image';
 //   value: string;
 // }
 
-export function Budget({ diff, trend, sx, value }): React.JSX.Element {
+export function Budget(): React.JSX.Element {
   // const TrendIcon = trend === 'up' ? ArrowUpIcon : ArrowDownIcon;
   // const trendColor = trend === 'up' ? 'var(--mui-palette-success-main)' : 'var(--mui-palette-error-main)';
 
